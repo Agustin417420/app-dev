@@ -5,9 +5,9 @@ about me
 My name is Joed Chris Agustin.
 
 Favorite Series
-One Piece
-Attack on Titan
-Stranger Things
+1.One Piece
+2.Attack on Titan
+3.Stranger Things
 
 Favorite Movie
 1.Avengers: Endgame
